@@ -16,7 +16,7 @@ Greetings 👋, I'm Ahmad<br>An Android Development Enthusiast and a 4th Year So
 ![](https://github-profile-trophy.vercel.app/?username=ahmadshahal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmadshahal&icon=1&color=3)](https://visitcount.itsvg.in)
