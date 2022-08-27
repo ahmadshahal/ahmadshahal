@@ -1,6 +1,6 @@
 ## 💫 About Me:
 ### Greetings 👋, I'm Ahmad.
-📱 An Android Development Enthusiast.<br>🧑🏻‍💻 4th Year Software Engineering Student at Damascus University.<br>🔭 I’m currently working on Ataa Charity Management System.<br>🌱 I’m currently learning Jetpack Compose and Kotlin Coroutines.<br>💬 Ask me about Android, Flutter or Competitive Programming.
+📱 An Android Development Enthusiast.<br>🧑🏻‍💻 4th Year Software Engineering Student at Damascus University.<br>🔭 I’m currently working on Ataa Charity Management System.<br>🌱 I’m currently learning Jetpack Compose and Kotlin Coroutines.<br>💬 Ask me about Android, Flutter, or Competitive Programming.
 
 [![](https://visitcount.itsvg.in/api?id=ahmadshahal&icon=1&color=3)](https://visitcount.itsvg.in)
 
